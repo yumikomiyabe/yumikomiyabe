@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yumikomiyabe
+
 - 👀 I’m interested in Game 
 - 🌱 I’m currently learning Unity 
-- 💞️ I’m looking to collaborate on game dev
+
 - 📫 How to reach me ...
 
 <!---
